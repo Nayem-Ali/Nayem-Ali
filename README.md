@@ -23,7 +23,7 @@
 <a href="https://codeforces.com/profile/mahdi_hira53" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mahdi_hira53" height="30" width="40" /></a>
 </p><br><h2>My Github Stats</h2><br>
 
-![Nayem Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Hira53&theme=github_dark&show_icons=true)
+![Nayem Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayem-Ali&theme=github_dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem-Ali&layout=compact&theme=github_dark)](https://github.com/Nayem-Ali/github-readme-stats)
   
 <br>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nayem-Ali&theme=github_dark&show_icons=true) 
