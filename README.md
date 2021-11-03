@@ -24,11 +24,11 @@
 </p><br><h2>My Github Stats</h2><br>
 
 ![Nayem Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Hira53&theme=github_dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Hira53&layout=compact&theme=github_dark)](https://github.com/Mahdi-Hira53/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem-Ali&layout=compact&theme=github_dark)](https://github.com/Nayem-Ali/github-readme-stats)
   
-<br>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahdi-Hira53&theme=github_dark&show_icons=true) 
+<br>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nayem-Ali&theme=github_dark&show_icons=true) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-hira53&" alt="mahdi-hira53" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nayem-Ali&" alt="Nayem-Ali" /></p><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mahdi-Hira53&theme=github_dark)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nayem-Ali&theme=github_dark)](https://github.com/ryo-ma/github-profile-trophy) 
  
