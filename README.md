@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nayem Ali</h1>
 <h4 align="center">I am an undergraduate student of Computer Science and Engineering from Leading University, Bangladesh. I'm a lifelong learner who is eager to experiment with new technologies and areas.</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahdi-hira53&label=Profile%20views&color=0e75b6&style=flat" alt="Nayem-Ali" /> </p>
+<p align="center"> <img src="[https://komarev.com/ghpvc/?username=mahdi-hira53&label=Profile%20views&color=0e75b6&style=flat](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz)" alt="Nayem-Ali" /> </p>
 
 <h2><b>About me</b></h2>
 <div>- 🌱 I’m currently learning <b>Java and Web Development</b></div>
