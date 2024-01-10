@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz" alt="Nayem-Ali" /> </p>
 
 <h2><b>About me</b></h2>
-<div>- 🌱 I’m currently learning <b>Java and Web Development</b></div>
+<div>- 🌱 I’m currently learning <b>Python and Mobile App Development</b></div>
 
 - 📫 How to reach me **Nayemali14125513@gmail.com**
 
