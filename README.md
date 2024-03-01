@@ -17,6 +17,9 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://dart.dev/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*uPs896BVm0cDaSQbKG0A1A.png" alt="java" width="40" height="40"/> </a> 
+  <a href="https://dart.dev/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*uPs896BVm0cDaSQbKG0A1A.png" alt="dart" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev/" target="_blank"> <img src="https://assets-global.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" alt="flutter" width="40" height="40"/> </a> 
+   <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
 </p>
   
 <h3 align="left"><b>Connect with me:<b></h3>
