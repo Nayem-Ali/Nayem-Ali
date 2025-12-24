@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://ak.picdn.net/shutterstock/videos/1010260682/thumb/12.jpg" width="100%" />
   <h1>Hi 👋, I'm Nayem Ali</h1>
-  <h3>Software Engineer | Flutter Specialist | Full-Stack Developer</h3>
+  <h3>Software Engineer | Flutter | Spring Boot </h3>
   <p>Building innovative, user-centric mobile and web solutions.</p>
 </div>
 
@@ -23,9 +23,9 @@ I am a **Software Engineer** at **QuantiaLab** (Mexico-based) and a Computer Sci
 | :--- | :--- |
 | **Languages** | Dart, Python, Java, C++, JavaScript (ES6+) |
 | **Mobile** | Flutter (Android, iOS, Desktop), Provider, Riverpod, GetX |
-| **Backend** | Spring Boot, FastAPI, Firebase (Auth, Firestore, FCM) |
-| **Frontend** | React.js, TailwindCSS, HTML5/CSS3 |
-| **Tools** | Git, GitHub, Postman, Figma, Android Studio, Docker |
+| **Backend** | Spring Boot, Firebase (Auth, Firestore, FCM) |
+| **Frontend** | React.js (Basic), TailwindCSS, HTML5/CSS3 |
+| **Tools** | Git, GitHub, Postman, Figma, Android Studio |
 
 ---
 
