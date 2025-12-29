@@ -2,7 +2,7 @@
   <img src="https://wallpapersok.com/images/high/lelouch-lamperouge-and-c-c-in-code-geass-e7tkx0oimwygyv3a-e7tkx0oimwygyv3a.webp" width="100%" height="50%" />
   <h1>Hi 👋, I'm Nayem Ali</h1>
   <h3>Software Engineer | Flutter | Spring Boot </h3>
-  <p>Building innovative, user-centric mobile and web solutions.</p>
+  <p>Building innovative, user-centric mobile and desktop solutions.</p>
 </div>
 
 ---
