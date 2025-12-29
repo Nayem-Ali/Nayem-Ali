@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wallpapersok.com/wallpapers/monkey-doing-coding-kabic55n6a0wai1i-3.html" width="100%" />
+  <img src="https://wallpapersok.com/images/high/lelouch-lamperouge-and-c-c-in-code-geass-e7tkx0oimwygyv3a-e7tkx0oimwygyv3a.webp" width="100%" />
   <h1>Hi 👋, I'm Nayem Ali</h1>
   <h3>Software Engineer | Flutter | Spring Boot </h3>
   <p>Building innovative, user-centric mobile and web solutions.</p>
