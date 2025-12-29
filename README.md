@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ak.picdn.net/shutterstock/videos/1010260682/thumb/12.jpg" width="100%" />
+  <img src="https://quotefancy.com/media/wallpaper/1600x900/8120700-eat-sleep-code-repeat-Wallpaper.jpg" width="100%" />
   <h1>Hi 👋, I'm Nayem Ali</h1>
   <h3>Software Engineer | Flutter | Spring Boot </h3>
   <p>Building innovative, user-centric mobile and web solutions.</p>
